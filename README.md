@@ -1,5 +1,7 @@
 ### Heya, I'm Alfro! 👋
 
+I haven't been the most active lately, but feel free to snoop around my repos!
+
 I can also be found at:
  - LinkedIn: [linkedin.com/in/alfonso-rodriguez-pereira](https://www.linkedin.com/in/alfonso-rodriguez-pereira/)
  - Stack Overflow: [stackoverflow.com/users/4257747/alfro](https://stackoverflow.com/users/4257747/alfro)

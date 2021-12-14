@@ -1,4 +1,9 @@
-### Hi there 👋
+### Heya, I'm Alfro! 👋
+
+I can also be found at:
+ - LinkedIn: https://www.linkedin.com/in/alfonso-rodriguez-pereira/
+ - Stack Overflow: https://stackoverflow.com/users/4257747/alfro
+ - Github (recursion, anyone?): https://github.com/Alfro
 
 <!--
 **Alfro/alfro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

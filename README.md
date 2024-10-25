@@ -1,11 +1,11 @@
 ### Heya, I'm Alfro! 👋
 
-I haven't been the most active lately, but feel free to snoop around my repos!
+I'm not very active around here, but feel free to snoop around my repos!
 
 I can also be found at:
  - LinkedIn: [linkedin.com/in/alfonso-rodriguez-pereira](https://www.linkedin.com/in/alfonso-rodriguez-pereira/)
  - Stack Overflow: [stackoverflow.com/users/4257747/alfro](https://stackoverflow.com/users/4257747/alfro)
- - Github (recursion, anyone?): [github.com/Alfro](https://github.com/Alfro)
+ - Github (🙃): [github.com/Alfro](https://github.com/Alfro)
 
 <!--
 **Alfro/alfro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

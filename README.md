@@ -1,6 +1,6 @@
 ### Heya, I'm Alfro! 👋
 
-I'm not very active around here, but feel free to snoop around my repos!
+I love coding and tinkering with cool projects when I get the chance. Feel free to snoop around!
 
 I can also be found at:
  - LinkedIn: [linkedin.com/in/alfonso-rodriguez-pereira](https://www.linkedin.com/in/alfonso-rodriguez-pereira/)
